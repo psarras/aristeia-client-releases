@@ -1,5 +1,9 @@
 # What's new
 
+## v1.1.6 · 2 November 2026
+
+- Updated dependencies, including the components behind the 3D viewer, to their latest bug-fix releases.
+
 ## v1.1.5 · 2 November 2026
 
 - Five new practice exercises: Arrays and Lists, Casting, Vector Math, Points in a Row and Zigzag Points
