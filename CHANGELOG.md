@@ -1,5 +1,9 @@
 # What's new
 
+## v1.1.4 · 2 November 2026
+
+- Downloads are now named Aristeia, for example Aristeia-win-x64.zip.
+
 ## v1.1.3 · 2 November 2026
 
 - The app window and the app's name in Task Manager and the macOS menu now say Aristeia.
