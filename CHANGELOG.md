@@ -1,5 +1,10 @@
 # What's new
 
+## v1.1.7 · 2 November 2026
+
+- New 3D exercise "Grid with Attractors": build your own Grid class and watch spheres shrink near attractors and grow near repulsors.
+- The 3D viewport can now show spheres, and draws attractor and other input points as red dots you move with sliders.
+
 ## v1.1.6 · 2 November 2026
 
 - Updated dependencies, including the components behind the 3D viewer, to their latest bug-fix releases.
