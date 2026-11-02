@@ -1,5 +1,10 @@
 # What's new
 
+## v1.1.2 · 2 November 2026
+
+- The app is now called Aristeia: start it with Aristeia.exe (CodingExerciseClient.exe still works).
+- New downloads unzip to a folder without a version number, so the folder name stays right as the app updates itself.
+
 ## v1.1.1 · 2 November 2026
 
 - New exercise: Parking Fee Calculator, which is finished only when the answers are right and the code is split into small helper methods.
