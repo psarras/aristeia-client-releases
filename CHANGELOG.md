@@ -1,5 +1,14 @@
 # What's new
 
+## v1.1.5 · 2 November 2026
+
+- Five new practice exercises: Arrays and Lists, Casting, Vector Math, Points in a Row and Zigzag Points
+- Vectors can be used in exercises the same way as in Rhino and Grasshopper
+- Exercises with a 3D view can take vector inputs, shown as X, Y and Z sliders
+- `Print(...)` works like in Grasshopper, and printed output now appears in its own Print tab
+- If the app crashes, a pop-up offers to open the crash log
+- Teachers see how many tests each student passes, e.g. "In Progress · 7/11 tests"
+
 ## v1.1.4 · 2 November 2026
 
 - Downloads are now named Aristeia, for example Aristeia-win-x64.zip.
