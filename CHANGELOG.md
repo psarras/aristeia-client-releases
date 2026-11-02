@@ -1,5 +1,10 @@
 # What's new
 
+## v1.1.1 · 2 November 2026
+
+- New exercise: Parking Fee Calculator, which is finished only when the answers are right and the code is split into small helper methods.
+- Exercises can now check how code is structured, not just whether the answers are right. Test results show correctness and structure as two separate parts.
+
 ## v1.1.0 · 2 November 2026
 
 - The app now tells you when a new version is out and can update itself with one click, then puts you back in your room with your code.
