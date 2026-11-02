@@ -1,5 +1,9 @@
 # What's new
 
+## v1.1.3 · 2 November 2026
+
+- The app window and the app's name in Task Manager and the macOS menu now say Aristeia.
+
 ## v1.1.2 · 2 November 2026
 
 - The app is now called Aristeia: start it with Aristeia.exe (CodingExerciseClient.exe still works).
