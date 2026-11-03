@@ -1,5 +1,13 @@
 # What's new
 
+## v1.1.9 · 3 November 2026
+
+- You can drag the borders between the description, your code, the 3D viewport and the test results to resize them. Each border is a thin line that gets thicker when you point at it.
+- The button that hides the description now sits next to its title, so the description and your code use more of the screen.
+- Make the code bigger or smaller with Ctrl and + / - (Ctrl and 0 resets it, Ctrl and the mouse wheel works too); the app remembers your size.
+- The 3D viewport now has Z pointing up, like Rhino, and its Front, Right and Top views match Rhino's.
+- The Join Room button is now next to the room code box.
+
 ## v1.1.8 · 3 November 2026
 
 - Teachers can open the reference solution straight from a room's page.
