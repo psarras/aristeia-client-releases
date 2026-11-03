@@ -1,5 +1,12 @@
 # What's new
 
+## v1.1.10 · 3 November 2026
+
+- The app now remembers every room you have joined. The start screen lists them with the exercise, whether you solved it or how many tests pass, and when you last opened it. Click one to go back in.
+- While working, click the room code at the top to switch to another of your rooms, or choose "Add new room…" to type a new code. The app checks the code as you type and shows which exercise it is and whether the room is open.
+- Going back into a room keeps you as the same student on the teacher's screen instead of adding you again.
+- If a room has been closed or deleted, or there is no internet, the app still opens your saved code so you can keep practising. Your results are not sent while you are offline.
+
 ## v1.1.9 · 3 November 2026
 
 - You can drag the borders between the description, your code, the 3D viewport and the test results to resize them. Each border is a thin line that gets thicker when you point at it.
