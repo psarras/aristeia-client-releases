@@ -1,5 +1,11 @@
 # What's new
 
+## v1.1.11 · 3 November 2026
+
+- Opening a room from the folders page shows the exercise description and the students' solution history again.
+- Code that loops forever no longer freezes the app: tests stop after 10 seconds with a hint.
+- Code that calls itself forever or closes the program no longer closes the app; the test output explains what happened.
+
 ## v1.1.10 · 3 November 2026
 
 - The app now remembers every room you have joined. The start screen lists them with the exercise, whether you solved it or how many tests pass, and when you last opened it. Click one to go back in.
