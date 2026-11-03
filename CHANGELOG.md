@@ -1,5 +1,14 @@
 # What's new
 
+## v1.1.8 · 3 November 2026
+
+- Teachers can open the reference solution straight from a room's page.
+- Exercise descriptions in the "View description & solution" window now look the same as in the room view.
+- The "View description & solution" window closes when you click outside it.
+- A room's page now also lists the exercises in a folded "Start another room" section at the top, so you can start a new room without leaving.
+- The site icon now shows on every page, not only the home page.
+- The website now spells the name "Aristeia", like the app.
+
 ## v1.1.7 · 2 November 2026
 
 - New 3D exercise "Grid with Attractors": build your own Grid class and watch spheres shrink near attractors and grow near repulsors.
