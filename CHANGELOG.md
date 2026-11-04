@@ -1,5 +1,9 @@
 # What's new
 
+## v1.1.12 · 4 November 2026
+
+- Updated the desktop app's UI framework to the latest patch release.
+
 ## v1.1.11 · 3 November 2026
 
 - Opening a room from the folders page shows the exercise description and the students' solution history again.
