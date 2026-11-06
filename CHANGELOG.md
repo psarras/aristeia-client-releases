@@ -1,5 +1,9 @@
 # What's new
 
+## Unreleased
+
+- The app now says "Exercise" where it used to say "room": you join with an exercise code, and the menu at the top lists your exercises. The task description pane is now called "Instruction".
+
 ## v1.1.12 · 4 November 2026
 
 - Updated the desktop app's UI framework to the latest patch release.
