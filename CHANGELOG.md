@@ -11,6 +11,9 @@
 - "Points from a CSV File" now reads the file itself and draws its points in the 3D view.
 - "Brightness Grid" now works on a picture you choose.
 - Updated the app's interface library (Avalonia 12.1.6) with upstream bug fixes.
+- You can type a 6-character room code from your teacher to see every open exercise in that room, then pick one to start
+- The app remembers the rooms you joined: their new exercises appear in your exercise list, and each exercise shows its room's name
+- The exercise menu has a quick way to pick another exercise from each of your rooms
 
 ## v1.1.12 · 4 November 2026
 

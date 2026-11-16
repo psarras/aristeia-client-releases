@@ -6,6 +6,7 @@
 - New exercise "Brightness Grid": turn the pixels of an image into brightness values and count the bright ones.
 - Sample files for the CSV and brightness exercises can be downloaded from the website.
 - Updated website build and test tools to their latest versions.
+- Each room on the Rooms page shows its room code. Click it to copy it and share it with students, who can then join any open exercise in that room
 
 ## 6 November 2026
 
