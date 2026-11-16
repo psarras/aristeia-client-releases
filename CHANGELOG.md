@@ -6,6 +6,7 @@
 - When the server has a problem while you join an exercise, the app now says so and asks you to try again, instead of telling you to check the exercise code.
 - An exercise you joined before now opens offline with your saved code when the server has a problem, not only when it can't be reached.
 - Your name needs at least 4 characters to join an exercise. A name made only of spaces is not accepted.
+- The app can now run exercises that use colours (`System.Drawing.Color`), as in Grasshopper.
 
 ## v1.1.12 · 4 November 2026
 

@@ -1,5 +1,10 @@
 # Website changes
 
+## 16 November 2026
+
+- New exercise "Points from a CSV File": read points from the lines of a CSV file and skip the lines that are not points.
+- New exercise "Brightness Grid": turn the pixels of an image into brightness values and count the bright ones.
+
 ## 6 November 2026
 
 - Names shorter than 4 characters, or made only of spaces, are refused when joining, including from older versions of the app.
