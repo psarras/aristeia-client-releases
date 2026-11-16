@@ -14,6 +14,7 @@
 - You can type a 6-character room code from your teacher to see every open exercise in that room, then pick one to start
 - The app remembers the rooms you joined: their new exercises appear in your exercise list, and each exercise shows its room's name
 - The exercise menu has a quick way to pick another exercise from each of your rooms
+- "Points from a CSV File" shows only the file picker, without the 3D view.
 
 ## v1.1.12 · 4 November 2026
 
