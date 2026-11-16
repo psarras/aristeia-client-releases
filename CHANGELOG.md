@@ -7,6 +7,9 @@
 - An exercise you joined before now opens offline with your saved code when the server has a problem, not only when it can't be reached.
 - Your name needs at least 4 characters to join an exercise. A name made only of spaces is not accepted.
 - The app can now run exercises that use colours (`System.Drawing.Color`), as in Grasshopper.
+- Exercises can ask you to pick a file or image with a Browse button, and the tests then also check your code on your own file.
+- "Points from a CSV File" now reads the file itself and draws its points in the 3D view.
+- "Brightness Grid" now works on a picture you choose.
 
 ## v1.1.12 · 4 November 2026
 
