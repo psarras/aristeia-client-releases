@@ -5,6 +5,7 @@
 - New exercise "Points from a CSV File": read points from the lines of a CSV file and skip the lines that are not points.
 - New exercise "Brightness Grid": turn the pixels of an image into brightness values and count the bright ones.
 - Sample files for the CSV and brightness exercises can be downloaded from the website.
+- Updated website build and test tools to their latest versions.
 
 ## 6 November 2026
 

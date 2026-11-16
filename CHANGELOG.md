@@ -10,6 +10,7 @@
 - Exercises can ask you to pick a file or image with a Browse button, and the tests then also check your code on your own file.
 - "Points from a CSV File" now reads the file itself and draws its points in the 3D view.
 - "Brightness Grid" now works on a picture you choose.
+- Updated the app's interface library (Avalonia 12.1.6) with upstream bug fixes.
 
 ## v1.1.12 · 4 November 2026
 
