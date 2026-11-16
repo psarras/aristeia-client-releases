@@ -1,6 +1,6 @@
 # What's new
 
-## Unreleased
+## v1.2.0 · 16 November 2026
 
 - The app now says "Exercise" where it used to say "room": you join with an exercise code, and the menu at the top lists your exercises. The task description pane is now called "Instruction".
 - When the server has a problem while you join an exercise, the app now says so and asks you to try again, instead of telling you to check the exercise code.
