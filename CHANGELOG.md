@@ -15,6 +15,7 @@
 - The app remembers the rooms you joined: their new exercises appear in your exercise list, and each exercise shows its room's name
 - The exercise menu has a quick way to pick another exercise from each of your rooms
 - "Points from a CSV File" shows only the file picker, without the 3D view.
+- New "Reset code" button above the code editor: after you confirm, your code goes back to how the exercise started. The description and your inputs stay, and Undo (Ctrl+Z) brings your code back until you close the app.
 
 ## v1.1.12 · 4 November 2026
 
